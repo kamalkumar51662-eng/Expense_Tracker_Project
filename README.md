@@ -27,14 +27,6 @@ While the program is running it stores each expense in a list of dictionaries. T
 - VS Code or Python IDLE
 - GitHub
 
-## Screenshot
-###
-- ![Expenses](screenshots/Expenses.png)
-- ![view Expense](<View Expenses.png>)
-- ![Total expense](<Total Expense.png>)
-- ![Exit](<EXIT .png>)
-
-
 ## Project Structure
 '''text
 Expense-Tracker/
